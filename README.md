@@ -5,7 +5,7 @@ Teste técnico Diel
 ![eclipse_JKCC9eXDik]![Code_5m2Ck6l0MA](https://github.com/AliniMaiaK/projeto_diel/assets/109356486/8aac7e0f-b174-40a3-bd2d-2a9209601970)
 
 
-## 🚩Código do Teste, feito em linguagem Java:
+## 🚩Código do Teste:
 ✅Linguagem que foi usada.
 
 - HTML, CSS e JS.
